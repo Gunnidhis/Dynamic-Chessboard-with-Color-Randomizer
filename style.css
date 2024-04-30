@@ -13,3 +13,13 @@
 .white {
   background-color: #f0d9b5;
 }
+
+
+.rules ul li{
+  display:relative;
+  bottom: 100%;
+  left:50%;
+  transform: translate(60%,50%);
+  margin: 20px;
+}
+
